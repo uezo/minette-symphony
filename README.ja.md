@@ -1,18 +1,18 @@
 # Minette adapter for Symphony
 
-Adapter for Symphony to create chatbot using Minette framework.
+Minetteフレームワークを使用したチャットボットをSymphonyに接続するためのアダプター。
 
 
-# Installation
+# インストール
 
 ```
 $ pip install minette-symphony
 ```
 
 
-# Running the echo bot
+# おうむ返しBOTのサンプル
 
-Running echo bot is extremely easy.
+動作確認用のおうむ返しBOTはとても簡単に作ることができます。
 
 ```python
 from minette import DialogService
@@ -38,7 +38,7 @@ adapter.start_datafeed()
 ```
 
 
-# More details
+# 詳細情報
 
-See also [Minette](https://github.com/uezo/minette-python) to understand the features of this framework and how to add your own skills.
+フレームワークの詳細な機能やスキルの追加方法などは [Minette](https://github.com/uezo/minette-python) を参照してください。
 

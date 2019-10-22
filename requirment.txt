@@ -1,0 +1,3 @@
+minette>=0.4.dev6
+sym-api-client-python>=0.1.16
+lxml>=4.3.3
